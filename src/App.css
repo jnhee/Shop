@@ -11,7 +11,10 @@
   background-position: center;
 }
 
-.product-img {
-  width: 80%;
-}
+.product-img { width: 80%; }
+
+.start {opacity: 0;}
+.end {opacity: 1; transition: opacity 0.5s;}
+.txt_wh {color: #ffffff;}
+
 
